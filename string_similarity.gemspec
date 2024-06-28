@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Compares the given two strings and returns the matching similarity percentage"
   spec.description = "Uses Jaro similarity algorithm to match the similarity between two given string"
-  spec.homepage = "https://rubygems.org/"
+  spec.homepage = "https://github.com/bijaydongol/string_similarity.git"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
